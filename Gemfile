@@ -16,7 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'foreman'
 gem 'tzinfo-data', platforms: [:x64_mingw, :mingw, :mswin]
 gem 'bower-rails'
-gem 'angular-rails4-templates'
+gem 'angular-rails-templates'
 
 group :production, :staging do
   gem "rails_12factor"
